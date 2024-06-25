@@ -1,0 +1,26 @@
+body {
+   
+    background-color: gray;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    size: 36px;
+    color: lightcoral;
+}
+
+p {
+    size: 24px;
+    color: blue;
+}
+
+body .box {
+    background-color: lightskyblue;
+    width: 200px;
+    border: 2px;
+    border-radius: 2px;
+    position: absolute;
+    left: 50%;
+    
+}
